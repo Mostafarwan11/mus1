@@ -8,7 +8,7 @@
         "jmthon",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/JMTHON-AR/mus1",
+    "repository": "https://github.com/Mostafarwan11/mus1",
     "env": {
         "SESSION": {
             "description": "هنا ضع كود البايروكرام",
